@@ -33,3 +33,4 @@ public class threematrix {
 
 }
 }
+/Write a program to find the biggest number in a 3*3 array. The program is supposed to receive 9 integer numbers as command line arguments
