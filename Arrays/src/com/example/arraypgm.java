@@ -11,5 +11,5 @@ public class arraypgm {
 		System.out.println(sum);
 		System.out.println(avg);
 	}
-
 }
+//Write a program to initialize an integer array and print the sum and average of the array. 
