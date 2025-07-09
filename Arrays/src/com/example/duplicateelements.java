@@ -31,3 +31,4 @@ public class duplicateelements {
 	}
 }
 }
+//Write a program to remove the duplicate elements in an array and print the same. 
