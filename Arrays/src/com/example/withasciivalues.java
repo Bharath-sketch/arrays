@@ -8,3 +8,4 @@ public class withasciivalues {
 		System.out.println();
 	}
 }
+//Initialize an integer array with ascii values and print the corresponding character values in a single row. 
