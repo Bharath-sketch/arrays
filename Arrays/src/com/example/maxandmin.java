@@ -17,3 +17,4 @@ public class maxandmin {
 		   System.out.println(max);
 	}
 }
+//Write a program to initialize an integer array and find the maximum and minimum value of the array. 
